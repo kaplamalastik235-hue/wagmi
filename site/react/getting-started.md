@@ -1,4 +1,4 @@
-<script setup>
+bu<script setup>
 import packageJson from '../../packages/react/package.json'
 
 const viemVersion = packageJson.peerDependencies.viem
